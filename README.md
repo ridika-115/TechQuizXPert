@@ -11,10 +11,7 @@ Welcome to the TechQuizXPert repository! This project is designed to provide a c
 
 ## Technologies Used
 
-- **Java**: Core programming language.  
-- **Spring Boot**: Backend framework.  
-- **MySQL**: Database management.  
-- **Thymeleaf**: Frontend templating engine.  
+- **Java**: Core programming language.
 
 ## Setup Instructions
 
